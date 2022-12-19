@@ -1,7 +1,7 @@
 # desafio-codepenchallenge
 
 Desafio do Code Pen Challenge
->>Tecnologia
+>>Tecnologias
 - HTML
 - CSS
 
